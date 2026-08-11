@@ -1,6 +1,3 @@
-> ./load_profile.sh --user jmsalcedooo
-> Loading profile data... Done.
-
 # 👋 Hi there, I'm James Salcedo!
 
 <p align="center">
