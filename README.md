@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm James Salcedo!
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=false&vCenter=true&width=700&lines=Software+QA+%7C+UI/UX+Design+%7C+AI/ML;Magna+Cum+Laude+Graduate;Welcome+to+my+GitHub!" />
 </p>
 
