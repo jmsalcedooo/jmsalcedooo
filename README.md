@@ -27,10 +27,10 @@ Visitors<br>
 Here are a few highlights from my repositories that showcase my range from AI to full-stack management systems:
 
 - 💰 [**expense-tracker-with-calculator**](https://github.com/jmsalcedooo/expense-tracker-with-calculator) - A React.js and SQL-powered mobile application simulating financial tracking across Android and iOS via Expo Go.
-- 🎨 [**art-portfolio-analysis**](https://github.com/jmsalcedooo/art-portfolio-analysis) - A CNN-SNN framework tackling fine arts assessment subjectivity by analyzing color, brushstroke, and texture pipelines using Python.
+- 🎫 [**pangasinan-website-booking-system**](https://github.com/jmsalcedooo/pangasinan-website-booking-system) - A website project created for Oracle Programming II, allowing users to book travel tickets to Pangasinan.
 - 📱 [**acadlink-school-portal-management-system-mobile-concept**](https://github.com/jmsalcedooo/acadlink-school-portal-management-system-mobile-concept) - A mobile-first concept designed to streamline and modernize student portal interactions by addressing pain points in traditional web portals.
 - 📊 [**barangay-registration-management-system**](https://github.com/jmsalcedooo/barangay-registration-management-system) - A robust demographic tracking system designed to help local officials efficiently allocate resources and plan community programs.
-- 🎫 [**pangasinan-website-booking-system**](https://github.com/jmsalcedooo/pangasinan-website-booking-system) - A website project created for Oracle Programming II, allowing users to book travel tickets to Pangasinan.
+- 🎨 [**art-portfolio-analysis**](https://github.com/jmsalcedooo/art-portfolio-analysis) - A CNN-SNN framework tackling fine arts assessment subjectivity by analyzing color, brushstroke, and texture pipelines using Python.
 - 🌬️ [**touchless-fan-using-ultrasonic-sensor-hand-tracking**](https://github.com/jmsalcedooo/touchless-fan-using-ultrasonic-sensor-hand-tracking) - A hygienic, contactless fan alternative utilizing an Arduino Uno, ultrasonic sensors, and Python's OpenCV for gesture control.
 
 <br>
