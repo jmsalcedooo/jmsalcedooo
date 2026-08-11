@@ -37,6 +37,8 @@ Here are a few highlights from my repositories that showcase my range from AI to
 - 🎫 [**pangasinan-website-booking-system**](https://github.com/jmsalcedooo/pangasinan-website-booking-system) - A website project created for Oracle Programming II, allowing users to book travel tickets to Pangasinan.
 - 🌬️ [**touchless-fan-using-ultrasonic-sensor-hand-tracking**](https://github.com/jmsalcedooo/touchless-fan-using-ultrasonic-sensor-hand-tracking) - A hygienic, contactless fan alternative utilizing an Arduino Uno, ultrasonic sensors, and Python's OpenCV for gesture control.
 
+<br>
+
 ## 🛠️ Core Technologies & Tools
 
 <div align="center">
@@ -55,6 +57,8 @@ Here are a few highlights from my repositories that showcase my range from AI to
 *   **Frameworks & Platforms:** React.js, Expo Go
 *   **Design & Multimedia:** Canva, Figma, 3D Blender
 *   **Concepts:** UI/UX Design, Software Quality Assurance, Computer Vision, Object-Oriented Programming
+
+<br>
 
 ## 📫 Let's Connect
 
