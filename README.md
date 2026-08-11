@@ -25,7 +25,6 @@ Visitors<br>
 - 🚀 Constantly exploring new tech and refining my skills in software testing, system logistics, and cross-platform development.
 
 <br>
-<br>
 
 ## 🚀 Featured Projects
 
