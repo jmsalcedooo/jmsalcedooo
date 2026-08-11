@@ -42,28 +42,28 @@ Here are a few highlights from my repositories that showcase my range from AI to
 
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,mysql,dart,flutter" alt="Development Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,mysql" alt="Development Skills" />
  </a>
  <br/>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode,arduino" alt="Design and Utility Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,blender,git,github,vscode,arduino" alt="Design and Utility Tools" />
  </a>
 </div>
 
 <br>
 
-*   **Languages:** Python, Java, PHP, JavaScript, SQL, Dart, Visual Basic .NET
-*   **Frameworks & Platforms:** React.js, Flutter, Expo Go
-*   **Design & Multimedia:** Figma, 3D Blender
+*   **Languages:** Python, Java, PHP, JavaScript, SQL, Visual Basic .NET
+*   **Frameworks & Platforms:** React.js, Expo Go
+*   **Design & Multimedia:** Canva, Figma, 3D Blender
 *   **Concepts:** UI/UX Design, Software Quality Assurance, Computer Vision, Object-Oriented Programming
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:jamssalcedo6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jamssalcedo6@gmail.com-0a4a82?logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:salcedo.j.bscs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-salcedo.j.bscs@gmail.com-0a4a82?logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/jmsalcedooo/">
     <img src="https://img.shields.io/badge/LinkedIn-James%20Salcedo-0a4a82?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
