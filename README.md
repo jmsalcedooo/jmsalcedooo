@@ -17,7 +17,6 @@ Visitors<br>
 
 - 🎓 **Magna Cum Laude Graduate** with a Bachelor of Science in Computer Science from the Eulogio Amang Rodriguez Institute of Science and Technology (EARIST).
 - 🏆 Honored with multiple awards for academic, leadership, and institutional service excellence.
-- 🌐 Deeply interested in **artificial intelligence**, **computer vision neural networks**, and **cybersecurity frameworks**.
 - 🖌️ Passionate about bridging the gap between functional backend logic and intuitive user experiences using tools like **Figma** and **3D Blender**.
 - 🚀 Constantly exploring new tech and refining my skills in software testing, system logistics, and cross-platform development.
 
