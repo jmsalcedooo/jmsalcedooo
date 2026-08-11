@@ -46,7 +46,7 @@ Here are a few highlights from my repositories that showcase my range from AI to
  </a>
  <br/>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,canva,blender,git,github,vscode,arduino" alt="Design and Utility Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode,arduino" alt="Design and Utility Tools" />
  </a>
 </div>
 
