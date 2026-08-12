@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a dedicated developer with a strong foundation in Sof
 
 <p align="center">
   Visitors<br>
-  <img src="https://count.getloli.com/@jmsalcedooo?name=jmsalcedooo&theme=gameboy&padding=6&offset=0&align=top&scale=1&pixelated=0&darkmode=0" alt="Visitors Count" height="70"/>
+  <img src="https://count.getloli.com/@jmsalcedooo?name=jmsalcedooo&theme=minecraft&padding=0&offset=0&align=top&scale=1&pixelated=0&darkmode=0" alt="Visitors Count" height="70"/>
 </p>
 
 ## 👨‍💻 About Me
