@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm James Salcedo!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Software+QA+%7C+UI/UX+Design+%7C+AI/ML;Magna+Cum+Laude+Graduate;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&width=700&lines=Software+QA+%7C+UI/UX+Design+%7C+AI/ML;Magna+Cum+Laude+Graduate;Welcome+to+my+GitHub!" />
 </p>
 
 Welcome to my GitHub! I am a dedicated developer with a strong foundation in Software Quality Assurance and UI/UX design. I am highly driven by leading QA testing projects and developing applications that deliver seamless and successful user outcomes.
