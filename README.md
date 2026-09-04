@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a dedicated developer with a strong foundation in Sof
   Visitors<br>
   <img src="https://count.getloli.com/@jmsalcedooo?name=jmsalcedooo&theme=minecraft&padding=0&offset=0&align=top&scale=1&pixelated=0&darkmode=0" alt="Visitors Count" height="70"/>
 </p>
-
+ 
 ## 👨‍💻 About Me
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=jmsalcedooo&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats" />
