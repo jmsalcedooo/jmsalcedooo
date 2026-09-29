@@ -28,6 +28,7 @@ Here are a few highlights from my repositories that showcase my range from AI to
 
 - 💰 [**expense-tracker-with-calculator**](https://github.com/jmsalcedooo/expense-tracker-with-calculator) - A React.js and SQL-powered mobile application simulating financial tracking across Android and iOS via Expo Go.
 - 📱 [**acadlink-school-portal-management-system-mobile-concept**](https://github.com/jmsalcedooo/acadlink-school-portal-management-system-mobile-concept) - A mobile-first concept designed to streamline and modernize student portal interactions by addressing pain points in traditional web portals.
+- 🎮 [**gamegear-hub-products-sample-site**](https://github.com/jmsalcedooo/gamegear-hub-products-sample-site) - A premium, ultra-dark mode e-commerce front-end application dedicated to high-performance gaming hardware and peripherals.
 - 📊 [**barangay-registration-management-system**](https://github.com/jmsalcedooo/barangay-registration-management-system) - A robust demographic tracking system designed to help local officials efficiently allocate resources and plan community programs.
 - 🎨 [**art-portfolio-analysis**](https://github.com/jmsalcedooo/art-portfolio-analysis) - A CNN-SNN framework tackling fine arts assessment subjectivity by analyzing color, brushstroke, and texture pipelines using Python.
 - 💼 [**data-driven-suggestions-for-hr-capstone-project**](https://github.com/jmsalcedooo/data-driven-suggestions-for-hr-capstone-project) -  An HR analytics model predicting employee attrition via a tuned Random Forest.
