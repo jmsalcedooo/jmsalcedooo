@@ -15,8 +15,6 @@ Welcome to my GitHub! I am a dedicated developer with a strong foundation in Sof
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=jmsalcedooo&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats" />
 
-- 🎓 **Magna Cum Laude Graduate** with a Bachelor of Science in Computer Science from the Eulogio Amang Rodriguez Institute of Science and Technology (EARIST).
-- 🏆 Honored with multiple awards for academic, leadership, and institutional service excellence.
 - 🖌️ Passionate about bridging the gap between functional backend logic and intuitive user experiences using tools like **Figma** and **3D Blender**.
 - 🚀 Constantly exploring new tech and refining my skills in software testing, system logistics, and cross-platform development.
 
